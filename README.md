@@ -1,8 +1,8 @@
 # Hi, I'm Amanpreet Singh 👋
 
-Cloud & DevOps Engineer with 3 years of experience designing, automating, and supporting cloud infrastructure, CI/CD pipelines, and DevOps practices on AWS.
+Cloud & DevOps Engineer with 4 years of experience designing, automating, and supporting cloud infrastructure, CI/CD pipelines, and DevOps practices on AWS.
 
-I also bring 9 years of experience in Quality Assurance within the manufacturing and automotive industries, providing a strong foundation in quality, process improvement, and problem-solving.
+I also bring 5 years of experience in Quality Assurance within the manufacturing and automotive industries, providing a strong foundation in quality, process improvement, and problem-solving.
 
 ### Certifications
 
